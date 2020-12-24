@@ -1,6 +1,6 @@
 (ns testing)
 (use 'clojure.test)
-(load-file "a3.clj")
+(load-file "small-step.clj")
 
 ;; A function to compute a given expression a number of times,
 ;; creating a list of the results.

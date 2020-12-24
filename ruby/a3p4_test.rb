@@ -1,5 +1,5 @@
 require "test/unit"
-require_relative "a3"
+require_relative "big-step"
 include GCLe
 
 class SimpleTests < Test::Unit::TestCase

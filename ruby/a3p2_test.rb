@@ -1,5 +1,5 @@
 require "test/unit"
-require_relative "a3"
+require_relative "stack-machine"
 include GCL
 
 class SimpleTests < Test::Unit::TestCase
